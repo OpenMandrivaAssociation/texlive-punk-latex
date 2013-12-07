@@ -6,7 +6,7 @@
 # catalog-version 1.1
 Name:		texlive-punk-latex
 Version:	1.1
-Release:	5
+Release:	6
 Summary:	LaTeX support for punk fonts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/punk-latex
