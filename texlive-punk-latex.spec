@@ -3,7 +3,7 @@ Version:	27389
 Release:	2
 Summary:	LaTeX support for punk fonts
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/punk-latex
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/punk-latex
 License:	GPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/punk-latex.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/punk-latex.doc.r%{version}.tar.xz
